@@ -14,7 +14,7 @@
 🛠️ Languages & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,java,c,git,linux,vscode" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kdfhb12334&show_icons=true&theme=radical" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdfhb12334&layout=compact&theme=radical" height="160px"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VRurs1606&show_icons=true&theme=radical" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRurs1606&layout=compact&theme=radical" height="160px"/> </p>
 🌐 Connect With Me
 <p align="left"> <a href="mailto:vaibhavarajvaidhyacu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
 
